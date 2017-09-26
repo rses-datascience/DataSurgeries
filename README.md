@@ -14,10 +14,10 @@ If you've got a topic you'd like to discuss in a Data Surgery, please fill in [t
 
 If you want to work with these notebooks on your own computer, you have two options:
 
-1. By downloading [one-off zip file](https://github.com/rses-datascience/DataSurgeries/archive/master.zip), which contains everything up to this point. You'll have to re-download the file to get updates.
-
-2. **[Recommended]** Use [Git](https://git-scm.com/) to clone the repository to your computer. Once Git is installed, open a terminal, and type:
+1. ***Recommended.*** Use [Git](https://git-scm.com/) to 'clone' the repository to your computer. You can either use your favourite [Git Client](https://git-scm.com/downloads/guis), or open a terminal and run:
 
     `git clone https://github.com/rses-datascience/DataSurgeries.git path/to/where/you/want/to/save/it`
 
-    To clone the respository on your computer. To get updates in future, open a terminal windoe, `cd` into the directory where you cloned the repository, and and run `git pull` to get all updates from the web.
+    To get updates in future, open a terminal window, `cd` into the directory where you cloned the repository, and and run `git pull` to synchronise your local copy with the web.
+
+2. Download a [one-off zip file](https://github.com/rses-datascience/DataSurgeries/archive/master.zip), which contains everything up to this point. You'll have to re-download the file to get updates in future.
