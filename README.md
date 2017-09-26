@@ -21,3 +21,5 @@ If you want to work with these notebooks on your own computer, you have two opti
     To get updates in future, open a terminal window, `cd` into the directory where you cloned the repository, and and run `git pull` to synchronise your local copy with the web.
 
 2. Download a [one-off zip file](https://github.com/rses-datascience/DataSurgeries/archive/master.zip), which contains everything up to this point. You'll have to re-download the file to get updates in future.
+
+[![HitCount](http://hits.dwyl.io/rses-datascience/DataSurgeries.svg)](http://hits.dwyl.io/rses-datascience/DataSurgeries)
