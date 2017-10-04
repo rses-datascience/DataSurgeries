@@ -4,7 +4,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 
 ## Contents
 
-- [01_Intro](./01_Intro/Intro_to_Python_and_Jupyter.ipynb): A brief introduction to Python and Jupyter Notebooks, and how to install and use them.
+- [01_Intro](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb): A brief introduction to Python and Jupyter Notebooks, and how to install and use them.
 
 ## Submitting a Topic
 
