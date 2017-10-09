@@ -5,6 +5,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 ## Contents
 
 - [01_Intro](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb): A brief introduction to Python and Jupyter Notebooks, and how to install and use them.
+- [02_ProfileMatching](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb): Matching two noisy signals, and estimating the uncertainty in the match.
 
 ## Submitting a Topic
 
