@@ -9,7 +9,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 
 ## Submitting a Topic
 
-If you've got a topic you'd like to discuss in a Data Surgery, please fill in [this form](https://goo.gl/forms/M94YdBKPSjrihfYi1), and we'll be in touch.
+If you've got a topic you'd like to discuss in a Data Surgery, please [contact us](mailto:oscar.branson@anu.edu.au,david.heslop@anu.edu.au?subject=Data%20Surgery%20Request) and we'll be in touch.
 
 ## Getting these examples
 
