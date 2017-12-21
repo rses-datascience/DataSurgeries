@@ -13,6 +13,9 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 - [01_Intro](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb): A brief introduction to Python and Jupyter Notebooks, and how to install and use them.
 - [02_ProfileMatching](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb): Matching two noisy signals, and estimating the uncertainty in the match.
 - [03_SensitivityAnalysis](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/03_SensitivityAnalysis/03_SensitivityAnalysis.ipynb): Estimating uncertainties and identifying relationships between parameters in complex models.
+- 04_DataBinning: Averages of unevenly spaced spatial data.
+- [05_ImageClustering](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/05_ImagesClustering/05_ImagesClustering.ipynb): Clustering analysis applied to multi-dimensional image data.
+
 
 ## Submitting a Topic
 
