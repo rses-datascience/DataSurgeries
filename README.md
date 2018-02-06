@@ -15,6 +15,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 - [03_SensitivityAnalysis](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/03_SensitivityAnalysis/03_SensitivityAnalysis.ipynb): Estimating uncertainties and identifying relationships between parameters in complex models.
 - 04_DataBinning: Averages of unevenly spaced spatial data.
 - [05_ImageClustering](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/05_ImagesClustering/05_ImagesClustering.ipynb): Clustering analysis applied to multi-dimensional image data.
+- [06_MonteCarloUncertainties](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/06_MonteCarlo/06_MonteCarloUncertainty.ipynb): Using Monte-Carlo methods to calculate uncertainty propagation through complex models.
 
 
 ## Submitting a Topic
