@@ -16,6 +16,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 - 04_DataBinning: Averages of unevenly spaced spatial data.
 - [05_ImageClustering](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/05_ImagesClustering/05_ImagesClustering.ipynb): Clustering analysis applied to multi-dimensional image data.
 - [06_MonteCarloUncertainties](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/06_MonteCarlo/06_MonteCarloUncertainty.ipynb): Using Monte-Carlo methods to calculate uncertainty propagation through complex models.
+- [07_Wavelets](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/07_Wavelets/07_Wavelets.ipynb): Wavelet Analysis to resolve the appearance and disappearance of periodic signals in time-series data.
 
 
 ## Submitting a Topic
