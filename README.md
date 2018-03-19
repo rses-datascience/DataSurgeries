@@ -6,6 +6,7 @@ A variety of Jupyter Notebooks made during the RSES data surgeries sessions.
 
 ### Resources
 
+- [**Tutorials**](./Tutorials/): A growing number of 'data analysis in Python' tutorials.
 - [Getting Started with Python, Jupyter and Git](https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/S01_GettingStarted/Getting%20Started%20in%20Python.ipynb)
 
 ### Surgery Sessions
